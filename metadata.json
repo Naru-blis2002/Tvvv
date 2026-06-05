@@ -1,0 +1,6 @@
+{
+  "name": "Latam TV",
+  "description": "App de TV en vivo con canales de Costa Rica, Perú y Argentina, reproductor arriba, categorías y canales abajo. Altamente optimizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
